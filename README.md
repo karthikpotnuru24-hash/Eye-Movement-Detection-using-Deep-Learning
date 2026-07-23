@@ -1,12 +1,16 @@
 Eye Movement Detection & Drowsiness Alert System
 Project Overview
 This project is a real-time eye movement and drowsiness detection system using Deep Learning, TensorFlow/Keras, OpenCV and Pygame. It detects whether eyes are open or closed from a webcam feed and triggers an alarm if the eyes remain closed for more than 2 seconds.
+
+
 Features
 •	Real-time webcam eye detection
 •	Open/Closed eye classification
 •	2-second drowsiness alarm
 •	CNN model (.keras)
 •	Live status display
+
+
 Technologies
 •	Python
 •	TensorFlow
@@ -16,9 +20,13 @@ Technologies
 •	Pandas
 •	Matplotlib
 •	Pygame
+
+
 Dataset
 •	MRL Eye Dataset
 •	https://www.kaggle.com/datasets/akashsharma07/mrl-eye-dataset
+
+
 Project Structure
 •	README.md
 •	requirements.txt
